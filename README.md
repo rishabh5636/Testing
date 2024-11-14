@@ -6,14 +6,12 @@
     <br>
     Created by me</p>
     <h2>My Project Contents</h2>
-    
-    <ol>
-    <li>HTML
-    <li>CSS
-    <li>BOOTSTRAP
-    <li>React JS
-    <li>Express JS
-    <li>Node JS
+    1. HTML
+    2. CSS
+    3. BOOTSTRAP
+    4. React JS
+    5. Express JS
+    6. Node JS
     </ol>
   </body>
 </html>
